@@ -1,0 +1,14 @@
+C:\Users\haier\source\repos\Task1_api\Task1_api\obj\Debug\netcoreapp2.2\Task1_api.csprojAssemblyReference.cache
+C:\Users\haier\source\repos\Task1_api\Task1_api\obj\Debug\netcoreapp2.2\Task1_api.csproj.CoreCompileInputs.cache
+C:\Users\haier\source\repos\Task1_api\Task1_api\obj\Debug\netcoreapp2.2\Task1_api.RazorAssemblyInfo.cache
+C:\Users\haier\source\repos\Task1_api\Task1_api\obj\Debug\netcoreapp2.2\Task1_api.RazorAssemblyInfo.cs
+C:\Users\haier\source\repos\Task1_api\Task1_api\obj\Debug\netcoreapp2.2\Task1_api.AssemblyInfoInputs.cache
+C:\Users\haier\source\repos\Task1_api\Task1_api\obj\Debug\netcoreapp2.2\Task1_api.AssemblyInfo.cs
+C:\Users\haier\source\repos\Task1_api\Task1_api\bin\Debug\netcoreapp2.2\Task1_api.deps.json
+C:\Users\haier\source\repos\Task1_api\Task1_api\bin\Debug\netcoreapp2.2\Task1_api.runtimeconfig.json
+C:\Users\haier\source\repos\Task1_api\Task1_api\bin\Debug\netcoreapp2.2\Task1_api.runtimeconfig.dev.json
+C:\Users\haier\source\repos\Task1_api\Task1_api\bin\Debug\netcoreapp2.2\Task1_api.dll
+C:\Users\haier\source\repos\Task1_api\Task1_api\bin\Debug\netcoreapp2.2\Task1_api.pdb
+C:\Users\haier\source\repos\Task1_api\Task1_api\obj\Debug\netcoreapp2.2\Task1_api.RazorTargetAssemblyInfo.cache
+C:\Users\haier\source\repos\Task1_api\Task1_api\obj\Debug\netcoreapp2.2\Task1_api.dll
+C:\Users\haier\source\repos\Task1_api\Task1_api\obj\Debug\netcoreapp2.2\Task1_api.pdb
